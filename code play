@@ -1,7 +1,12 @@
 //learning how to code in github. 
 <!doctype>
 <HTML>
-<Charset utf-8>
+<meta charset="utf-8">
+<meta name="viewport" >
+<head>
+//external CSS file goes here
+<link rel="text/css" href="style.css">
+</head>
 <style>
 //css goes here
 </style>
